@@ -1,0 +1,20 @@
+svg {
+  padding: 0 50px;
+}
+
+.svg-container {
+  padding: 20px;
+  width: 100%;
+}
+
+text.bar-label {
+  font-size: 16px;
+}
+
+.axis-labels text {
+  font-size: 16px;
+}
+
+.no-axis .domain {
+  stroke: transparent;
+}
